@@ -21,7 +21,7 @@ repository               : "cgpavlakos/cgpavlakos.github.i"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.PNG"
   name             : "Chris Pavlakos"
   pronouns         : # example: "she/her"  
   bio              : "Cloud Architect, Community College Adjunct, husband, dad. "
