@@ -57,9 +57,9 @@ Certifications
 ======
 * CISSP
 * Oracle Cloud
- * Gen AI Pro
- * Architect Pro
- * 15+ Total Certifications
+  * Gen AI Pro
+  * Architect Pro
+  * 15+ Total Certifications
 * AWS
 * Azure
 * Google Cloud
