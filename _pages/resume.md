@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-Aug 2021 - Present: *Enterprise Cloud* Architect at _Oracle_
+Aug 2021 - Present: **Enterprise Cloud** Architect at __Oracle__
   * Arizona
   * Federal Pre-Sales Engineering
 
