@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 Hi! I am Chris, a Cloud Architect at Oracle and Adjunct Professor at South Mounatain Community College. I help federal government customer's solve complex problems and try my best to inspire the next generation on weekends. 
 
 
