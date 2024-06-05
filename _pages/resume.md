@@ -11,33 +11,33 @@ redirect_from:
 
 Education
 ======
-* MBA in Information Technology Management,WGU
+* MBA in Information Technology Management, WGU
 * M.S. in Information Systems, UMBC
 * B.S. in Information Systems, VCU School of Business
 
 Work experience
 ======
-* Aug 2021 - Present: Enterprise Cloud Architect | Oracle
+* Aug 2021 - Present: Enterprise Cloud Architect at Oracle
   * Arizona
   * Federal Pre-Sales Engineering
 
-* Sep 2019 - Present: Adjunct Faculty | South Mountain Community College
+* Sep 2019 - Present: Adjunct Faculty at South Mountain Community College
   * Arizona
   * Computer Science and Business Classes
 
-* Feb 2019 - Aug 2021: Solutions Architect | Deloitte
+* Feb 2019 - Aug 2021: Solutions Architect at Deloitte
   * Arizona
   * Federal and DOD Consulting
  
-* Mar 2018 - Feb 2019: Senior Data Analyst | HighPoint GLobal
+* Mar 2018 - Feb 2019: Senior Data Analyst at HighPoint GLobal
   * Washington, DC
   * Federal Contracting
 
-* Jun 2017 - Mar 2018: Database Administrator | SLAIT Consulting
+* Jun 2017 - Mar 2018: Database Administrator at SLAIT Consulting
   * Richmond, VA
   * Financial Services Industry
 
-* Jul 2013 - Jun 2017: Database Administrator | ITCON Services
+* Jul 2013 - Jun 2017: Database Administrator at ITCON Services
   * Richmond, VA
   * Federal Consulting
 
