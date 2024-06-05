@@ -13,7 +13,7 @@ Education
 ======
 * MBA in Information Technology Management, WGU
 * M.S. in Information Systems, UMBC
-* B.S. in Information Systems, VCU School of Business
+* B.S. in Information Systems, VCU
 
 Work experience
 ======
