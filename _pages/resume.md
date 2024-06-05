@@ -48,10 +48,10 @@ Skills
 * Cloud Migration 
 * Generative AI and RAG
 * Cybersecurity 
- * FedRAMP
- * NIST
- * Zero Trust
- * Risk Managament
+  * FedRAMP
+  * NIST
+  * Zero Trust
+  * Risk Managament
 
 Certifications
 ======
