@@ -29,7 +29,7 @@ Work experience
   * Phoenix, AZ
   * Federal and DOD Consulting
  
-* 2018 - 2019: **Senior Data Analyst** at _HighPoint GLobal_
+* 2018 - 2019: **Senior Data Analyst** at _HighPoint Global_
   * Washington, DC
   * Federal Consulting
 
