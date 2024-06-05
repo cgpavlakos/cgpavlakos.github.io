@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* Aug 2021 - Present: Enterprise Cloud Architect at Oracle
+Aug 2021 - Present: *Enterprise Cloud* Architect at _Oracle_
   * Arizona
   * Federal Pre-Sales Engineering
 
-* Sep 2019 - Present: Adjunct Faculty at South Mountain Community College
+Sep 2019 - Present: **Adjunct Faculty**  __South Mountain Community College__
   * Arizona
   * Computer Science and Business Classes
 
