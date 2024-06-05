@@ -17,29 +17,28 @@ Education
 
 Work experience
 ======
-Aug 2021 - Present: **Enterprise Cloud Architect** at _Oracle_
-  * Arizona
+* 2021 - Present: **Enterprise Cloud Architect** at _Oracle_
+  * Phoenix, AZ
   * Federal Pre-Sales Engineering
 
-> Sep 2019 - Present: **Adjunct Faculty** at _South Mountain Community College_
-
-  * Arizona
+* 2019 - Present: **Adjunct Faculty** at _South Mountain Community College_
+  * Phoenix, AZ
   * Computer Science and Business Classes
 
-* Feb 2019 - Aug 2021: Solutions Architect at Deloitte
-  * Arizona
+* 2019 - 2021: **Solutions Architect** at _Deloitte_
+  * Phoenix, AZ
   * Federal and DOD Consulting
  
-* Mar 2018 - Feb 2019: Senior Data Analyst at HighPoint GLobal
+* 2018 - 2019: **Senior Data Analyst** at _HighPoint GLobal_
   * Washington, DC
-  * Federal Contracting
+  * Federal Consulting
 
-* Jun 2017 - Mar 2018: Database Administrator at SLAIT Consulting
+* 2017 - 2018: **Database Administrator** at _SLAIT Consulting_
   * Richmond, VA
   * Financial Services Industry
 
-* Jul 2013 - Jun 2017: Database Administrator at ITCON Services
-  * Richmond, VA
+* 2013 - 2017: **Database Administrator** at _ITCON Services_
+  * Washington, DC
   * Federal Consulting
 
   
