@@ -17,20 +17,30 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2021 - Present: Enterprise Cloud Architect | Oracle
+  * Arizona
+  * Federal Pre-Sales Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2019 - Present: Adjunct Faculty | South Mountain Community College
+  * Arizona
+  * Computer Science and Business Classes
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2019 - Aug 2021: Solutions Architect | Deloitte
+  * Arizona
+  * Federal and DOD Consulting
+ 
+* Mar 2018 - Feb 2019: Senior Data Analyst | HighPoint GLobal
+  * Washington, DC
+  * Federal Contracting
+
+* Jun 2017 - Mar 2018: Database Administrator | SLAIT Consulting
+  * Richmond, VA
+  * Financial Services Industry
+
+* Jul 2013 - Jun 2017: Database Administrator | ITCON Services
+  * Richmond, VA
+  * Federal Consulting
+
   
 Skills
 ======
